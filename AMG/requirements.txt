@@ -1,0 +1,8 @@
+selenium
+openpyxl
+xlsxwriter
+webdriver_manager
+requests
+bs4
+pandas
+numpy
